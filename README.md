@@ -40,3 +40,6 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
   http://tutorials-raspberrypi.de/wp-content/uploads/scripts/hd44780_i2c
   https://github.com/andreiva/raspberry-pi-bme280
 
+# Schaltplan
+Schaltplan des Projekts: MediStore.Fritzing.png
+
