@@ -41,5 +41,5 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
   https://github.com/andreiva/raspberry-pi-bme280
 
 # Schaltplan
-Schaltplan des Projekts: MediStore.Fritzing.png
+Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
 
