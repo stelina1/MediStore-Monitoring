@@ -47,7 +47,12 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
 Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
 
 # Fehlerbehebung
-Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
-LCD zeigt nichts an: Überprüfe die Verkabelung und die I2C-Adresse des Displays.
-LED leuchtet dauerhaft: Kontrolliere den Reed-Switch und die Türposition.
+- Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
+- LCD zeigt nichts an: Überprüfe die Verkabelung und die I2C-Adresse des Displays.
+- LED leuchtet dauerhaft: Kontrolliere den Reed-Switch und die Türposition.
+
+# Kontakt
+Bei Fragen oder Feedback:
+Auf GitHub: stelina1 (https://github.com/stelina1)
+E-Mail: stelinauni@icloud.com
 
