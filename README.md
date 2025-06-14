@@ -36,10 +36,18 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
 - time
 
 # Installation
-  https://www.python.org
-  http://tutorials-raspberrypi.de/wp-content/uploads/scripts/hd44780_i2c
-  https://github.com/andreiva/raspberry-pi-bme280
+1. Python (falls noch nicht installiert):  
+   [https://www.python.org](https://www.python.org)
+2. Anleitung zur Installation des LCD-Treibers (hd44780_i2c):  
+   [Tutorial Raspberry Pi LCD](http://tutorials-raspberrypi.de/wp-content/uploads/scripts/hd44780_i2c)
+3. BME280 Sensor Python-Treiber:  
+   [Raspberry Pi BME280 Github](https://github.com/andreiva/raspberry-pi-bme280)
 
 # Schaltplan
 Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
+
+# Fehlerbehebung
+Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
+LCD zeigt nichts an: Überprüfe die Verkabelung und die I2C-Adresse des Displays.
+LED leuchtet dauerhaft: Kontrolliere den Reed-Switch und die Türposition.
 
