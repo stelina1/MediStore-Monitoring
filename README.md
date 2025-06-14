@@ -1,5 +1,5 @@
 # MediStore-Monitoring
-Überwachungssystem für medizinischen Lagerraum (Raspberry Pi Projekt)
+Überwachungssystem für medizinischen Lagerraum, ein Raspberry Pi Projekt.
 
 # Projektbeschreibung
 Die kontinuierliche Überwachung von Lagerbedingungen ist im medizinischen Bereich von entscheidend, um die Qualität und Wirksamkeit von Medikamenten, Impfstoffen oder anderen Produkten sicherzustellen. Bereits minimale Abweichungen bei Temperatur und Luftfeuchtigkeit oder Lagerung können erhebliche Auswirkungen auf die Sicherheit und Wirksamkeit dieser Produkte haben.
@@ -44,13 +44,13 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
    [Raspberry Pi BME280 Github](https://github.com/andreiva/raspberry-pi-bme280)
 
 # Bauteile
-Bauteile des Projekts:
+Bauteile des Projekts: https://github.com/stelina1/MediStore-Monitoring/blob/main/Bauteile.jpg
 
 # Projektbild
 Bilder des Projekts:
 
 # Schaltplan
-Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
+Schaltplan des Projekts: (https://github.com/stelina1/MediStoreMonitoring/blob/main/MediStore.Fritzing.png)
 
 # Fehlerbehebung
 - Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
