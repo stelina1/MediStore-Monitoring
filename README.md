@@ -50,7 +50,7 @@ Bauteile des Projekts: https://github.com/stelina1/MediStore-Monitoring/blob/mai
 Bilder des Projekts: https://github.com/stelina1/MediStore-Monitoring/blob/main/Projektbild.jpg
 
 # Schaltplan
-Schaltplan des Projekts:
+Schaltplan des Projekts: [MediStore.Fritzing.png] (https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
 
 # Fehlerbehebung
 - Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
