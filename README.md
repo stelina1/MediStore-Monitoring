@@ -43,6 +43,12 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
 3. BME280 Sensor Python-Treiber:  
    [Raspberry Pi BME280 Github](https://github.com/andreiva/raspberry-pi-bme280)
 
+# Bauteile
+Bauteile des Projekts:
+
+# Projektbild
+Bilder des Projekts:
+
 # Schaltplan
 Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/MediStore-Monitoring/blob/main/MediStore.Fritzing.png)
 
@@ -53,6 +59,6 @@ Schaltplan des Projekts: [MediStore.Fritzing.png](https://github.com/stelina1/Me
 
 # Kontakt
 Bei Fragen oder Feedback:
-Auf GitHub: stelina1 (https://github.com/stelina1)
-E-Mail: stelinauni@icloud.com
+- Auf GitHub: stelina1 (https://github.com/stelina1)
+- E-Mail: stelinauni@icloud.com
 
