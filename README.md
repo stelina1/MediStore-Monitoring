@@ -47,10 +47,10 @@ Die erfassten Messwerte wie Temperatur, Luftfeuchtigkeit, Luftdruck und Türstat
 Bauteile des Projekts: https://github.com/stelina1/MediStore-Monitoring/blob/main/Bauteile.jpg
 
 # Projektbild
-Bilder des Projekts:
+Bilder des Projekts: https://github.com/stelina1/MediStore-Monitoring/blob/main/Projektbild.jpg
 
 # Schaltplan
-Schaltplan des Projekts: (https://github.com/stelina1/MediStoreMonitoring/blob/main/MediStore.Fritzing.png)
+Schaltplan des Projekts:
 
 # Fehlerbehebung
 - Sensor wird nicht erkannt: Prüfe, ob I2C auf deinem Raspberry Pi aktiviert ist.
